@@ -23,7 +23,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://blookchain.giveaway-cryspto.com';
+$config['base_url'] = 'https://lustrous-licorice-f76737.netlify.app';
 
 /*
 |--------------------------------------------------------------------------
